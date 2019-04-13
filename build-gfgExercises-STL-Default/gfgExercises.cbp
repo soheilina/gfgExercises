@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gfgExercises"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\lib\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\lib\cmake\Qt5Core\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gfgExercises">
+				<Option output="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/gfgExercises" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default"/>
+					<Add directory="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises"/>
+					<Add directory="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/gfgExercises_autogen/include"/>
+					<Add directory="/usr/local/Cellar/qt/5.12.0/lib/QtCore.framework"/>
+					<Add directory="/usr/local/Cellar/qt/5.12.0/lib/QtCore.framework/Headers"/>
+					<Add directory="/usr/local/Cellar/qt/5.12.0/./mkspecs/macx-clang"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 gfgExercises"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gfgExercises/fast">
+				<Option output="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/gfgExercises" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default"/>
+					<Add directory="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises"/>
+					<Add directory="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/gfgExercises_autogen/include"/>
+					<Add directory="/usr/local/Cellar/qt/5.12.0/lib/QtCore.framework"/>
+					<Add directory="/usr/local/Cellar/qt/5.12.0/lib/QtCore.framework/Headers"/>
+					<Add directory="/usr/local/Cellar/qt/5.12.0/./mkspecs/macx-clang"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 gfgExercises/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gfgExercises_autogen">
+				<Option working_dir="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 gfgExercises_autogen"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/soheilina/Workspace/C++\ Projects/gfgExercises/build-gfgExercises-STL-Default/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/gfgExercises_autogen/mocs_compilation.cpp">
+			<Option target="gfgExercises"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/ExercisesClass.cpp">
+			<Option target="gfgExercises"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/ExercisesClass.h">
+			<Option target="gfgExercises"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/main.cpp">
+			<Option target="gfgExercises"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/../../../../../../usr/local/Cellar/qt/5.12.0/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/../../../../../../usr/local/Cellar/qt/5.12.0/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/../../../../../../usr/local/Cellar/qt/5.12.0/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/../../../../../../usr/local/Cellar/qt/5.12.0/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/../../../../../../usr/local/Cellar/qt/5.12.0/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\Cellar\qt\5.12.0\lib\cmake\Qt5Core\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

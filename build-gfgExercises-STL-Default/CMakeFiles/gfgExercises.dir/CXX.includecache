@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/exercisesclass.h
+fstream
+-
+iostream
+-
+sstream
+-
+vector
+-
+
+/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/main.cpp
+exercisesclass.h
+/Users/soheilina/Workspace/C++ Projects/gfgExercises/gfgExercises/exercisesclass.h
+iostream
+-
+

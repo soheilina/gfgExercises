@@ -1,0 +1,4 @@
+/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/CMakeFiles/rebuild_cache.dir
+/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/CMakeFiles/edit_cache.dir
+/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/CMakeFiles/gfgExercises.dir
+/Users/soheilina/Workspace/C++ Projects/gfgExercises/build-gfgExercises-STL-Default/CMakeFiles/gfgExercises_autogen.dir
