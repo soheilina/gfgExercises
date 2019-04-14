@@ -16,6 +16,8 @@ public:
 
 public:
     void ParenthesisChecker(void) const;
+    void ReverseWords(void) const;
+    void SubArrayGivenSum(void) const;
 };
 
 #endif // EXERCISESCLASS_H

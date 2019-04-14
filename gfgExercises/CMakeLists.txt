@@ -5,6 +5,12 @@ project(gfgExercises)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_BUILD_TYPE Debug)
+
+# Set C++0X
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD_DEFAULT 14)
+set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
+
 find_package(Qt5Core)
 
 # Create a list with all .cpp source files
